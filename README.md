@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Taha 👋</h1>
 
 <p align="center">
-  <b>AI AND FULLSTACK DEVELOPER INTEN @ GLACIER AGENCY• FREELANCING IN Shopify Consultant • AI Engineer</b><br/>
+  <b>AI AND FULLSTACK DEVELOPER INTERN @ GLACIER AGENCY• FREELANCING IN Shopify Consultant • AI Engineer</b><br/>
   Computer Science Student @ Air University Islamabad (2023–2027)
 </p>
 
